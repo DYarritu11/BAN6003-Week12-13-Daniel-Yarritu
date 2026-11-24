@@ -5,6 +5,15 @@
 
 This repository contains the notebooks and output folder for this assignment package. Detailed lab instructions are provided in Canvas/LMS.
 
+## Module 12 — Completed
+
+- [Open the completed linear regression notebook](notebooks/module12_linear_regression_guided_lab.ipynb), including saved tables and plots, Your Turn 1–4, bike demand practice, timing comparison, deployment recommendation, and final reflection.
+- [Flight model metrics](outputs/linear_regression_metrics_module12.csv)
+- [Bike demand metrics](outputs/bike_demand_metrics_module12.csv)
+- [Prediction timing comparison](outputs/linear_model_timing_comparison_module12.csv)
+
+The Module 12 notebook was run from top to bottom in a fresh Python kernel without execution errors. Model A assumes forecast weather would replace observed weather in deployment; Model C is unsuitable for either prospective decision because it requires actual air time after landing.
+
 ## Canvas / LMS Lab Guide
 
 Read the Canvas/LMS lab guide before working in this repository. The LMS page contains the detailed workflow, submission instructions, and any module-specific notes. This README is only a quick repository checklist.

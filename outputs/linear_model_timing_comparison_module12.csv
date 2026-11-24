@@ -1,0 +1,4 @@
+model,decision_time,MAE,RMSE,R_squared,usable_evening_before,usable_at_departure
+Model A,evening before,26.584331650472347,42.731577628397496,0.09280712130120772,Yes,Yes
+Model B,at departure,12.692053281122,17.436188083227634,0.8489555164806453,No,Yes
+Model C,after landing,10.699671834077758,14.890511092715341,0.8898407457334903,No,No
